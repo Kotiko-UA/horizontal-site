@@ -1,1 +1,1 @@
-https://kotiko-ua.github.io/horizontal-site/
+https://kotiko-ua.github.io/site-slide-scroll/
